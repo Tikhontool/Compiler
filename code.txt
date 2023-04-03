@@ -1,0 +1,10 @@
+var int x;
+var int y >= 7.0;
+var int result;
+result = 0;
+x = 5;
+result = x + y;
+
+si (result >10) {
+print (result);
+}
